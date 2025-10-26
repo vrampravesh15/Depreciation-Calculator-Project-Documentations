@@ -24,7 +24,7 @@ The *Depreciation Calculator Project* helps calculate the loss in value of asset
 ### **Additional Info**
 - **Created Using:** *Microsoft Excel*  
 - **Developed By:** *[Rampravesh Vishwakarma]*  
-- **Contact:** *[[Your Email or LinkedIn](https://www.linkedin.com/in/rampravesh-vishwakarma/)]*  
+- **Contact:** *[(https://www.linkedin.com/in/rampravesh-vishwakarma/)]*  
 - **Use Case:** Suitable for *finance professionals*, *students*, and *portfolio projects*.
 
 ---
